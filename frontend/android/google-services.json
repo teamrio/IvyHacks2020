@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972394445481",
+    "firebase_url": "https://teamrio-backend.firebaseio.com",
+    "project_id": "teamrio-backend",
+    "storage_bucket": "teamrio-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972394445481:android:e73505ac868aeb413a47b8",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972394445481-bn821l8m09dcuiel25vj1mabpgn1b2bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXC1bKoQGA34wcZCVxtlk-yoJv87OLHgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972394445481-bn821l8m09dcuiel25vj1mabpgn1b2bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
