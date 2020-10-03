@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
           ? ListView.builder(
             itemBuilder: (context, index) {
               return ListTile(
-                title: data[index],
+                title: data[index]["title"],
               );
             },
             itemCount: data.length,)
